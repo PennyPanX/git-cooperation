@@ -1,4 +1,5 @@
 --start--
+main-keep
 dev-keep
 --end--
 expect:
