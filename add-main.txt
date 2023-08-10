@@ -1,12 +1,1 @@
-main-add
-expect:The dev branch is updated to this file
-deal confict
-1111
-dev2文件<<<<<<< .mine
-dev2文件
-
-=======
-deal confict
-1111
->>>>>>> .theirs
-
+dev2修改
