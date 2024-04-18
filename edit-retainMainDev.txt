@@ -2,5 +2,4 @@
 main-keep
 --end--
 expect:
-main-keep
 dev-keep
